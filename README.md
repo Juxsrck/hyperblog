@@ -8,7 +8,8 @@ En este curso veremos de todo:
 *El flujo de trabajo en Github
 *El verdadero amor por las buenas practicas
 *Trucos muy locos del  profesor
-Las presonalidades multiples de Freddy
+*Las presonalidades multiples de Freddy
+*Creado por el increible Platzi Team
 
 Y como un amable recordatorio: **Este readme.md es un chiste**, Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejor ve a [ver el curso](http://https://platzi.com/clases/1557-git-github/19977-readmemd-es-una-excelente-practica/ "ver el curso")
 .
